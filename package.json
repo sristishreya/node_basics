@@ -1,0 +1,24 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "nodemon-package-test",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon res-form.js",
+    "start-server": "node res-form.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sristishreya/node_basics.git"
+  },
+  "author": "Sristi Shreya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sristishreya/node_basics/issues"
+  },
+  "homepage": "https://github.com/sristishreya/node_basics#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
